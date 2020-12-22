@@ -1,0 +1,9 @@
+build
+.idea
+.gradle
+gradle
+project
+target
+app.ml
+sbt*
+

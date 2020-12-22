@@ -1,5 +1,5 @@
-Tomer Ittah
-Ilan Naiman
+Tomer Ittah - 308193150
+Ilan Naiman - 206291098
 
 Important notes:
 	1- Keep in mind that the project is split between "whatsappaclient" - The client package and "akka-whatsApp-java" - the manager (server) package.
