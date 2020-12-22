@@ -1,0 +1,99 @@
+/user connect tomer
+/user disconnect
+
+**********
+
+/user disconnect
+
+**********
+
+/user connect tomer tomer
+
+**********
+
+/user connect tomer
+/user connect tomer
+/user disconnect
+
+**********
+
+Client 1:
+/user connect tomer
+
+Client 2:
+/user connect tom
+/user text tomer helloooooo helloooooo h
+
+Client 1:
+/user disconnect
+
+Client 2:
+/user disconnect
+
+**********
+
+Client 1:
+/user connect tomer
+
+Client 2:
+/user connect tomer
+/user connect tom
+/user file tomer "C:\Tomer\Projects\ATD\dev_assignment_2\whatsappclient\src\test\java\input\test_file.txt"
+
+Client 1:
+/user disconnect
+
+Client 2:
+/user disconnect
+
+**********
+
+Client 1:
+/user connect tomer
+
+Client 2:
+/user connect tom
+
+Client 1:
+/user disconnect
+
+Client 2:
+/user send text tomer helloooooo helloooooo h
+
+Client 2:
+/user disconnect
+
+**********
+
+Client 1:
+/user connect tomer
+
+Client 2:
+/user connect tom
+
+Client 1:
+/user disconnect
+
+Client 2:
+/user file tomer "C:\Tomer\Projects\ATD\dev_assignment_2\whatsappclient\src\test\java\input\test_file.txt"
+
+Client 2:
+/user disconnect
+
+**********
+
+Client 1:
+/user connect tomer
+
+Client 2:
+/user connect tom
+
+Client 1:
+/user disconnect
+
+Client 2:
+/user file tomer "C:\Tomer\Projects\ATD\dev_assignment_2\whatsappclient\src\test\java\input\test_file.txt"
+
+Client 2:
+/user disconnect
+
